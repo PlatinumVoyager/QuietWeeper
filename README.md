@@ -16,7 +16,7 @@ This will let declaring the following define directive...
 ```c
 #include "raylib.h"
 ```
-...working correctly, as quietweeper does not rely on static compilation pre-runtime.
+...execute successfully, as quietweeper does not rely on static compilation pre-runtime.
 
 There is no associated `Makefile` within QuietWeeper's main directory as of version `1.2.2`. For now you will have to manually start the build process yourself via executing:
   * `gcc -std=c11 quietweeper.c -o quietweeper -I./include -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lcivetweb -s`
