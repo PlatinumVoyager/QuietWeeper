@@ -706,7 +706,7 @@ static void serve_static_file(struct mg_connection *conn, const char *file, cons
     if (fp == NULL)
     {
         // failed to open the file
-        mg_printf(conn, "HTTP/1.1 404 Not Found DICK\r\nContent-Type: text/plain\r\n\r\n");
+        mg_printf(conn, "HTTP/1.1 404 Not Found\r\nContent-Type: text/plain\r\n\r\n");
         
 		// check for null file
 		if (strlen(file) < 0x1)
