@@ -45,9 +45,6 @@ Upon pressing <i>`ENTER`</i> the backend will spin up the Graphical User Interfa
 ### Graphical Interface:
 
 ![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/7d8a2960-e792-4d9f-9acf-a66e53e49885)
-
-Enter the appropriate required arguments and click `START HTTP SERVER` or press `ENTER` to initialize the Weeping HTTP server. As for the inverse to shutdown the Weeping HTTP server click `INITIALIZE SERVER SHUTDOWN` or press `d`.
-
 </br>
 </br>
 
