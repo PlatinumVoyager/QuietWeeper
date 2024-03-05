@@ -36,9 +36,10 @@ Usage: `./quietweeper`
 </br>
 
 Upon pressing <i>`ENTER`</i> the backend will spin up the Graphical User Interface. This interface accepts 3 **MANDATORY** arguments:
-  * HOSTNAME - The TCP/IPv4 address or hostname "ALIAS" pointing to an Internet (local and/or remote) host
-  * PORT - The port that will be bound/set for the internal AF_INET server socket
-  * PATH - The absolute or "." (current directory of `weepingserver` executable) direct path for the document root
+  * *HOSTNAME* - The TCP/IPv4 address or hostname "ALIAS" pointing to an Internet (local and/or remote) host
+     * NOTE: There is no "in memory" function responsible for converting hostnames to their TCP/IP address equivalent counterparts upon execution. You must make sure to have the correct address/alias when declaring a hostname for the server
+  * *PORT* - The port that will be bound/set for the internal AF_INET server socket
+  * *PATH* - The absolute or "." (current directory of `weepingserver` executable) direct path for the document root
 
 </br>
 
