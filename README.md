@@ -45,7 +45,3 @@ Upon pressing <i>`ENTER`</i> the backend will spin up the Graphical User Interfa
 ### Graphical Interface:
 
 ![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/7d8a2960-e792-4d9f-9acf-a66e53e49885)
-</br>
-</br>
-
-### Note: *This version is simply a "beta" public testing release. The official anticipated features that will make this a real viable toolset are still being developed. Stand by.*
