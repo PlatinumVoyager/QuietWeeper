@@ -37,7 +37,7 @@ Usage: `./quietweeper`
 
 Upon pressing <i>`ENTER`</i> the backend will spin up the Graphical User Interface. This interface accepts 3 **MANDATORY** arguments:
   * *HOSTNAME* - The TCP/IPv4 address or hostname "ALIAS" pointing to an Internet (local and/or remote) host
-     * NOTE: There is no "in memory" function responsible for converting hostnames to their TCP/IP address equivalent counterparts upon execution. You must make sure to have the correct address/alias when declaring a hostname for the server
+     * NOTE: There is no "in memory" function responsible for converting hostnames to their TCP/IP address equivalent counterparts upon execution. You must make sure to have the correct address/alias when declaring a hostname for the server (Check out /etc/hosts to define a custom system wide alias)
   
   * *PORT* - The port that will be bound/set for the internal AF_INET server socket
   
