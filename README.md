@@ -41,7 +41,7 @@ Upon pressing <i>`ENTER`</i> the backend will spin up the Graphical User Interfa
   
   * *PORT* - The port that will be bound/set for the internal AF_INET server socket
   
-  * *PATH* - The absolute or "." (current directory of `weepingserver` executable) direct path for the document root
+  * *PATH* - The absolute or "." (current directory of the `weepingserver` executable) direct path for the document root
 
 </br>
 
