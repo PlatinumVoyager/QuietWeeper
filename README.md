@@ -1,5 +1,9 @@
 ## QuietWeeper v1.2.2 - Weeping HTTP Server
 
+[![PlatinumVoyager - QuietWeeper](https://img.shields.io/static/v1?label=PlatinumVoyager&message=QuietWeeper&color=blue&logo=github)](https://github.com/PlatinumVoyager/QuietWeeper "Go to GitHub repo")
+[![stars - QuietWeeper](https://img.shields.io/github/stars/PlatinumVoyager/QuietWeeper?style=social)](https://github.com/PlatinumVoyager/QuietWeeper)
+[![forks - QuietWeeper](https://img.shields.io/github/forks/PlatinumVoyager/QuietWeeper?style=social)](https://github.com/PlatinumVoyager/QuietWeeper)
+
 Generic HTTP server operational GUI aimed at providing server operators with an easier toolset for general use case scenarios.
 
 ![quietweeper](https://github.com/PlatinumVoyager/QuietWeeper/assets/116006542/4d58bded-f822-4828-a865-41592e22b989)
